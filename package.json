@@ -1,7 +1,7 @@
 {
   "name": "@beholdio/ts-lambda-api-local",
   "description": "Test ts-lambda-api API's locally using express.",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/beholdio/ts-lambda-api-local.git"
