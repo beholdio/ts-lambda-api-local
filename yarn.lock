@@ -1491,9 +1491,9 @@
     "@types/serve-static" "*"
 
 "@types/temp@^0.9.1":
-  version "0.9.1"
-  resolved "https://registry.npmjs.org/@types/temp/-/temp-0.9.1.tgz"
-  integrity sha512-yDQ8Y+oQi9V7VkexwE6NBSVyNuyNFeGI275yWXASc2DjmxNicMi9O50KxDpNlST1kBbV9jKYBHGXhgNYFMPqtA==
+  version "0.9.4"
+  resolved "https://registry.yarnpkg.com/@types/temp/-/temp-0.9.4.tgz#69bd4b0e8fc4d54db06bd1b613c19292d333350b"
+  integrity sha512-+VfWIwrlept2VBTj7Y2wQnI/Xfscy1u8Pyj/puYwss6V1IblXn1x7S0S9eFh6KyBolgLCm+rUFzhFAbdkR691g==
   dependencies:
     "@types/node" "*"
 
