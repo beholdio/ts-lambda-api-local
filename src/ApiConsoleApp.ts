@@ -7,7 +7,7 @@ import { Server } from "http"
 import { Container } from "inversify"
 import { serve as serveSwaggerUi, setup as setupSwaggerUi } from "swagger-ui-express"
 
-import { ApiApp, ApiRequest, ApiResponse, timed, AppConfig, LogLevel  } from "ts-lambda-api"
+import { ApiApp, ApiRequest, ApiResponse, timed, AppConfig, LogLevel  } from "@beholdio/ts-lambda-api"
 
 /**
  * Simple console application that hosts an express HTTP

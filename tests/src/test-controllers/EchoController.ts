@@ -1,6 +1,6 @@
 import { injectable } from "inversify";
 import { Response } from "lambda-api";
-import { body, header, produces, queryParam, rawBody, response, GET, POST, Controller } from "ts-lambda-api";
+import { body, header, produces, queryParam, rawBody, response, GET, POST, Controller } from "@beholdio/ts-lambda-api";
 
 import { Message } from "./Message";
 

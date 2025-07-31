@@ -1,6 +1,6 @@
 import * as path from "path"
 
-import { AppConfig, LogLevel } from "ts-lambda-api"
+import { AppConfig, LogLevel } from "@beholdio/ts-lambda-api"
 
 import { ApiConsoleApp } from "../../../dist/ts-lambda-api-local"
 

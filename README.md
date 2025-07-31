@@ -4,10 +4,10 @@ Extension module for the `ts-lambda-api` package which enables running lambda RE
 
 This module also provides Swagger UI support, powered by the `swagger-ui-express` npm package.
 
-[NPM Package](https://www.npmjs.com/package/ts-lambda-api-local)
-[GitHub Repo](https://github.com/djfdyuruiry/ts-lambda-api-local/)
+[NPM Package](https://www.npmjs.com/package/@beholdio/ts-lambda-api-local)
+[GitHub Repo](https://github.com/beholdio/ts-lambda-api-local/)
 
-Read the full `typedoc` documentation: https://djfdyuruiry.github.io/ts-lambda-api-local/
+Read the full `typedoc` documentation: https://beholdio.github.io/ts-lambda-api-local/
 
 ---
 

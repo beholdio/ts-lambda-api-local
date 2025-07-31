@@ -1,8 +1,8 @@
 #! /usr/bin/env bash
 set -e
 
-projectGithubUrl="https://github.com/djfdyuruiry/ts-lambda-api-local/blob/master/src"
-tlaGithubUrl="https://github.com/djfdyuruiry/ts-lambda-api/blob/master/src"
+projectGithubUrl="https://github.com/beholdio/ts-lambda-api-local/blob/master/src"
+tlaGithubUrl="https://github.com/beholdio/ts-lambda-api/blob/master/src"
 projectPath="$(pwd)"
 docHtmlPath="${projectPath}/docs/classes/ApiConsoleApp.html"
 

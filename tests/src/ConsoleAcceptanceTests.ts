@@ -13,7 +13,7 @@ import { ApiConsoleApp } from "../../dist/ts-lambda-api-local"
 
 import { Message } from "./test-controllers/Message"
 import { TestAuthFilter } from "./test-components/TestAuthFilter"
-import { AppConfig } from "ts-lambda-api";
+import { AppConfig } from "@beholdio/ts-lambda-api";
 
 @TestFixture()
 export class ConsoleAcceptanceTests {
