@@ -60,7 +60,7 @@
     "alsatian": "^3.2.1",
     "eslint": "^8.44.0",
     "eslint-plugin-import": "^2.27.5",
-    "eslint-plugin-jsdoc": "^46.4.3",
+    "eslint-plugin-jsdoc": "^54.1.0",
     "eslint-plugin-prefer-arrow": "^1.2.3",
     "fs-extra": "^11.1.1",
     "improved-yarn-audit": "^3.0.0",
